@@ -1,0 +1,25 @@
+Adventure
+Action
+Comedy
+Drama
+Fantasy
+Horror
+Mystery
+Romance
+Science Fiction
+Thriller
+Historical Fiction
+Children's
+Young Adult
+Crime
+Suspense
+Paranormal
+Supernatural
+War
+Post-Apocalyptic
+Dystopian
+Coming of Age
+Psychological
+Satire
+Western
+Noir
